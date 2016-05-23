@@ -46,10 +46,9 @@ $(document).ready(function() {
 $(document).ready(function() {
 	$('.navR a').click(function() {
 		$('.nav ul').each(function() {
-		cookieDel($('.nav ul').index($(this)));
-		});
-		$('.nav ul').slideUp(200, function(){
+			cookieDel($('.nav ul').index($(this)));
 			$(this).removeClass('verbergend');
+            $(this).slideUp(200);
 		});
 		
 		$(this).addClass('verbergend');
