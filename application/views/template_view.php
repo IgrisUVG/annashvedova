@@ -28,12 +28,12 @@
 		<div class = "header">
 			<div class = "logo">
 				<a href="http://annashvedova.ru/">
-					<img src="images/ash.png" width="150" alt="">
+					<img src="/images/ash.png" width="150" alt="">
 				</a>
 			</div>
 			<div class = "name">
 				<a href="http://annashvedova.ru/">
-					<img src="images/HEAD_RU_LINE_1.svg" alt="">
+					<img src="/images/HEAD_RU_LINE_1.svg" alt="">
 				</a>
 			</div>
 		</div><!--Конец шапки-->
@@ -55,7 +55,7 @@
 				require('data/footer.php');
 			?>			
 		</div><!--Конец футера-->
-		<script type='text/javascript' src='js/jquery.simplemodal.js'></script>
-		<script type='text/javascript' src='js/contact.js'></script>
+		<script type='text/javascript' src='/js/jquery.simplemodal.js'></script>
+		<script type='text/javascript' src='/js/contact.js'></script>
 	</body>
 </html>
