@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	backgroundColor="rgba(255,255,255,0)"
+	captionBackColor="rgba(0,0,0,0.5)"
+	captionBackTopColor="rgba(0,0,0,0.3)"
+	maxThumbColumns="4"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	enableLooping="true"
+	imageVAlign="TOP"
+
+>
+  <image imageURL="images/_1.jpg"
+	thumbURL="thumbs/_1.jpg"
+	linkURL="images/_1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\sun\resources\images\large\_1.jpg">
+    <title><![CDATA[Астра]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_2.jpg"
+	thumbURL="thumbs/_2.jpg"
+	linkURL="images/_2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\sun\resources\images\large\_2.jpg">
+    <title><![CDATA[Африканский Мак]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_3.jpg"
+	thumbURL="thumbs/_3.jpg"
+	linkURL="images/_3.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\sun\resources\images\large\_3.jpg">
+    <title><![CDATA[Цветы Нила]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_4.jpg"
+	thumbURL="thumbs/_4.jpg"
+	linkURL="images/_4.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\sun\resources\images\large\_4.jpg">
+    <title><![CDATA[Лето]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_5.jpg"
+	thumbURL="thumbs/_5.jpg"
+	linkURL="images/_5.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\sun\resources\images\large\_5.jpg">
+    <title><![CDATA[Лето]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_6.jpg"
+	thumbURL="thumbs/_6.jpg"
+	linkURL="images/_6.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\sun\resources\images\large\_6.jpg">
+    <title><![CDATA[Морская]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_7.jpg"
+	thumbURL="thumbs/_7.jpg"
+	linkURL="images/_7.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\sun\resources\images\large\_7.jpg">
+    <title><![CDATA[Русский цветок]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Sexsual Sunset.jpg"
+	thumbURL="thumbs/Sexsual Sunset.jpg"
+	linkURL="images/Sexsual Sunset.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\sun\resources\images\large\Sexsual Sunset.jpg">
+    <title><![CDATA[Sexsual Sunset]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	imageVAlign="TOP"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	maxThumbColumns="5"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	captionBackColor="rgba(0,0,0,0.5)"
+	captionBackTopColor="rgba(0,0,0,0.3)"
+	enableLooping="true"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+
+>
+  <image imageURL="images/_1.jpg"
+	thumbURL="thumbs/_1.jpg"
+	linkURL="images/_1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_1.jpg">
+    <title><![CDATA[НА НЕВСКИЙ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_2.jpg"
+	thumbURL="thumbs/_2.jpg"
+	linkURL="images/_2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_2.jpg">
+    <title><![CDATA[НОЯБРЬ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_3.jpg"
+	thumbURL="thumbs/_3.jpg"
+	linkURL="images/_3.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_3.jpg">
+    <title><![CDATA[ТРИПТИХ О ЖИЗНИ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_4.jpg"
+	thumbURL="thumbs/_4.jpg"
+	linkURL="images/_4.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_4.jpg">
+    <title><![CDATA[ТРИПТИХ О ЦВЕТАХ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_5.jpg"
+	thumbURL="thumbs/_5.jpg"
+	linkURL="images/_5.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_5.jpg">
+    <title><![CDATA[СКАЗЫ ЛЕСА]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_6.jpg"
+	thumbURL="thumbs/_6.jpg"
+	linkURL="images/_6.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_6.jpg">
+    <title><![CDATA[НОВЫЕ ТУФЛИ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_7.jpg"
+	thumbURL="thumbs/_7.jpg"
+	linkURL="images/_7.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_7.jpg">
+    <title><![CDATA[ДРУЗЬЯ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_8.jpg"
+	thumbURL="thumbs/_8.jpg"
+	linkURL="images/_8.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_8.jpg">
+    <title><![CDATA[ФЕВРАЛЬ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_9.jpg"
+	thumbURL="thumbs/_9.jpg"
+	linkURL="images/_9.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_9.jpg">
+    <title><![CDATA[ЛИЛИЯ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_10.jpg"
+	thumbURL="thumbs/_10.jpg"
+	linkURL="images/_10.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_10.jpg">
+    <title><![CDATA[РЕПЕЙНИК]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_11.jpg"
+	thumbURL="thumbs/_11.jpg"
+	linkURL="images/_11.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_11.jpg">
+    <title><![CDATA[ГНЕЗДО]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_12.jpg"
+	thumbURL="thumbs/_12.jpg"
+	linkURL="images/_12.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_12.jpg">
+    <title><![CDATA[КОРАБЛЬ ДЛЯ АНДРИСА]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_13.jpg"
+	thumbURL="thumbs/_13.jpg"
+	linkURL="images/_13.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_13.jpg">
+    <title><![CDATA[РАДУЖНЫЕ ДАЛИ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_14.jpg"
+	thumbURL="thumbs/_14.jpg"
+	linkURL="images/_14.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_14.jpg">
+    <title><![CDATA[КОЛОДЕЦ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25.jpg"
+	thumbURL="thumbs/25.jpg"
+	linkURL="images/25.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\25.jpg">
+    <title><![CDATA[25]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_15.jpg"
+	thumbURL="thumbs/_15.jpg"
+	linkURL="images/_15.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_15.jpg">
+    <title><![CDATA[ЗАТОНУВШИЙ КОРАБЛЬ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_16.jpg"
+	thumbURL="thumbs/_16.jpg"
+	linkURL="images/_16.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_16.jpg">
+    <title><![CDATA[СОН МАШИНИСТА]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_17.jpg"
+	thumbURL="thumbs/_17.jpg"
+	linkURL="images/_17.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_17.jpg">
+    <title><![CDATA[ДОЛЬСКОЕ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_18.jpg"
+	thumbURL="thumbs/_18.jpg"
+	linkURL="images/_18.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_18.jpg">
+    <title><![CDATA[ПАРИЖ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_19.jpg"
+	thumbURL="thumbs/_19.jpg"
+	linkURL="images/_19.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_19.jpg">
+    <title><![CDATA[ВЕЧЕР НА ВЕЕРНОЙ УЛИЦЕ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_20.jpg"
+	thumbURL="thumbs/_20.jpg"
+	linkURL="images/_20.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_20.jpg">
+    <title><![CDATA[ЧЕРТОПОЛОХ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_21.jpg"
+	thumbURL="thumbs/_21.jpg"
+	linkURL="images/_21.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_21.jpg">
+    <title><![CDATA[14 ФЕВРАЛЯ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_22.jpg"
+	thumbURL="thumbs/_22.jpg"
+	linkURL="images/_22.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_22.jpg">
+    <title><![CDATA[ПОД СОЛНЦЕМ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_23.jpg"
+	thumbURL="thumbs/_23.jpg"
+	linkURL="images/_23.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_23.jpg">
+    <title><![CDATA[КРЫМСКИЕ ЦВЕТЫ (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_24.jpg"
+	thumbURL="thumbs/_24.jpg"
+	linkURL="images/_24.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_24.jpg">
+    <title><![CDATA[КРЫМСКИЕ ЦВЕТЫ (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_25.jpg"
+	thumbURL="thumbs/_25.jpg"
+	linkURL="images/_25.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_25.jpg">
+    <title><![CDATA[СЕРИЯ ГОРОДА, ВИЛЬНЮС]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_26.jpg"
+	thumbURL="thumbs/_26.jpg"
+	linkURL="images/_26.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_26.jpg">
+    <title><![CDATA[СЕРИЯ ГОРОДА, ПАРИЖ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_27.jpg"
+	thumbURL="thumbs/_27.jpg"
+	linkURL="images/_27.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_27.jpg">
+    <title><![CDATA[СЕРИЯ ГОРОДА, ТАЛЛИН]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_28.jpg"
+	thumbURL="thumbs/_28.jpg"
+	linkURL="images/_28.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\graphic\resources\images\large\_28.jpg">
+    <title><![CDATA[СЕРИЯ ГОРОДА, ХЕЛЬСИНКИ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

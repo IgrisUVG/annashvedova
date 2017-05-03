@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	imageVAlign="TOP"
+	captionBackColor="rgba(0,0,0,0)"
+	enableLooping="true"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+
+>
+  <image imageURL="images/DSC_9905.jpg"
+	thumbURL="thumbs/DSC_9905.jpg"
+	linkURL="images/DSC_9905.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry2\resources\images\large\DSC_9905.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9918.jpg"
+	thumbURL="thumbs/DSC_9918.jpg"
+	linkURL="images/DSC_9918.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry2\resources\images\large\DSC_9918.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9934.jpg"
+	thumbURL="thumbs/DSC_9934.jpg"
+	linkURL="images/DSC_9934.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry2\resources\images\large\DSC_9934.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9937.jpg"
+	thumbURL="thumbs/DSC_9937.jpg"
+	linkURL="images/DSC_9937.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry2\resources\images\large\DSC_9937.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

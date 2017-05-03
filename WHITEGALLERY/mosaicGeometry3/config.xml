@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	backgroundColor="rgba(255,255,255,0)"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	imageVAlign="TOP"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+
+>
+  <image imageURL="images/_1.jpg"
+	thumbURL="thumbs/_1.jpg"
+	linkURL="images/_1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry3\resources\images\large\_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1362.jpg"
+	thumbURL="thumbs/IMG_1362.jpg"
+	linkURL="images/IMG_1362.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry3\resources\images\large\IMG_1362.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1363.jpg"
+	thumbURL="thumbs/IMG_1363.jpg"
+	linkURL="images/IMG_1363.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry3\resources\images\large\IMG_1363.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1364.jpg"
+	thumbURL="thumbs/IMG_1364.jpg"
+	linkURL="images/IMG_1364.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry3\resources\images\large\IMG_1364.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1369.jpg"
+	thumbURL="thumbs/IMG_1369.jpg"
+	linkURL="images/IMG_1369.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry3\resources\images\large\IMG_1369.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1370.jpg"
+	thumbURL="thumbs/IMG_1370.jpg"
+	linkURL="images/IMG_1370.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry3\resources\images\large\IMG_1370.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

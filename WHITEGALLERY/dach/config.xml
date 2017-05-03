@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	captionBackColor="rgba(0,0,0,0)"
+	captionBackTopColor="rgba(0,0,0,0)"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	maxThumbColumns="5"
+	enableLooping="true"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	imageVAlign="TOP"
+
+>
+  <image imageURL="images/DSC_0952.jpg"
+	thumbURL="thumbs/DSC_0952.jpg"
+	linkURL="images/DSC_0952.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\dach\resources\images\large\DSC_0952.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0954.jpg"
+	thumbURL="thumbs/DSC_0954.jpg"
+	linkURL="images/DSC_0954.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\dach\resources\images\large\DSC_0954.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0957.jpg"
+	thumbURL="thumbs/DSC_0957.jpg"
+	linkURL="images/DSC_0957.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\dach\resources\images\large\DSC_0957.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0958.jpg"
+	thumbURL="thumbs/DSC_0958.jpg"
+	linkURL="images/DSC_0958.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\dach\resources\images\large\DSC_0958.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0960.jpg"
+	thumbURL="thumbs/DSC_0960.jpg"
+	linkURL="images/DSC_0960.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\dach\resources\images\large\DSC_0960.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0963.jpg"
+	thumbURL="thumbs/DSC_0963.jpg"
+	linkURL="images/DSC_0963.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\dach\resources\images\large\DSC_0963.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9964.jpg"
+	thumbURL="thumbs/DSC_9964.jpg"
+	linkURL="images/DSC_9964.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\dach\resources\images\large\DSC_9964.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.jpg"
+	thumbURL="thumbs/2.jpg"
+	linkURL="images/2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\dach\resources\images\large\2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9969.jpg"
+	thumbURL="thumbs/DSC_9969.jpg"
+	linkURL="images/DSC_9969.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\dach\resources\images\large\DSC_9969.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,0)"
+	showThumbsButton="false"
+	showExpandButton="false"
+	showOpenButton="false"
+	captionBackColor="rgba(0,0,0,0.5)"
+	captionBackTopColor="rgba(0,0,0,0.3)"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	enableLooping="true"
+	imageVAlign="TOP"
+
+>
+  <image imageURL="images/_1.jpg"
+	thumbURL="thumbs/_1.jpg"
+	linkURL="images/_1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\folk\resources\images\large\_1.jpg">
+    <title><![CDATA[Бирюза]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_2.jpg"
+	thumbURL="thumbs/_2.jpg"
+	linkURL="images/_2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\folk\resources\images\large\_2.jpg">
+    <title><![CDATA[Карелия]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_3.jpg"
+	thumbURL="thumbs/_3.jpg"
+	linkURL="images/_3.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\folk\resources\images\large\_3.jpg">
+    <title><![CDATA[Русский Лен]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_4.jpg"
+	thumbURL="thumbs/_4.jpg"
+	linkURL="images/_4.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\folk\resources\images\large\_4.jpg">
+    <title><![CDATA[Снежинка]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_5.jpg"
+	thumbURL="thumbs/_5.jpg"
+	linkURL="images/_5.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\folk\resources\images\large\_5.jpg">
+    <title><![CDATA[Трявяная]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

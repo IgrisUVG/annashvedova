@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,0)"
+	showThumbsButton="false"
+	showExpandButton="false"
+	showOpenButton="false"
+	captionBackColor="rgba(0,0,0,0.5)"
+	captionBackTopColor="rgba(0,0,0,0.3)"
+	maxThumbColumns="6"
+	thumbPadding="5"
+	thumbCornerRadius="10"
+	thumbSelectedFrameWidth="5"
+	captionHAlign="CENTER"
+	showImageNumber="false"
+	enableLooping="true"
+
+>
+  <image imageURL="images/_1.jpg"
+	thumbURL="thumbs/_1.jpg"
+	linkURL="images/_1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\cover\resources\images\large\_1.jpg">
+    <title><![CDATA[Гитарный чехол]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_2.jpg"
+	thumbURL="thumbs/_2.jpg"
+	linkURL="images/_2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\cover\resources\images\large\_2.jpg">
+    <title><![CDATA[Гитарный чехол]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_3.jpg"
+	thumbURL="thumbs/_3.jpg"
+	linkURL="images/_3.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\cover\resources\images\large\_3.jpg">
+    <title><![CDATA[Гитарный чехол]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_4.jpg"
+	thumbURL="thumbs/_4.jpg"
+	linkURL="images/_4.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\cover\resources\images\large\_4.jpg">
+    <title><![CDATA[Чехол для бубна с карманом для колотушки]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_5.jpg"
+	thumbURL="thumbs/_5.jpg"
+	linkURL="images/_5.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\cover\resources\images\large\_5.jpg">
+    <title><![CDATA[Чехол для бубна с карманом для колотушки]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_6.jpg"
+	thumbURL="thumbs/_6.jpg"
+	linkURL="images/_6.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\cover\resources\images\large\_6.jpg">
+    <title><![CDATA[Чехол для бубна с карманом для колотушки]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
