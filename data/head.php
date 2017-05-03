@@ -9,7 +9,7 @@
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/jquery.cookie.js"></script>
 <!--script type="text/javascript" src="js/menu.js"></script-->
-<script type="text/javascript" src="js/menuFull.js"></script>
+<script type="text/javascript" src="js/menuFull.min.js"></script>
 <script type="text/javascript" src="js/ajax.js"></script>
 <!--[if lte IE 8]>
 <script src="js/respond.min.js"></script>
