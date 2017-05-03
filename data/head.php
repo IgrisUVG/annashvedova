@@ -1,4 +1,4 @@
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <META NAME="ROBOTS" CONTENT="ALL">
 <META NAME="locate" CONTENT="ru">
 <META NAME="KEYWORDS" CONTENT="Анна Шведова, художник, оформитель, дизайнер, картины, масло, графика, выставки, мозаика, оформление,
@@ -19,7 +19,7 @@
 <link href="css/stylesmall.css" rel="stylesheet" media="(max-width:480px)">
 <link href="css/menu.css" rel="stylesheet" type="text/css">
 <link href="form.css" rel="stylesheet" type="text/css">
-<link type='text/css' href='css/contact.css' rel='stylesheet' media='screen' />
+<link type='text/css' href='css/contact.css' rel='stylesheet' media='screen'/>
 <!--?php
 	include_once("analyticstracking.php")
 ?>
