@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	captionBackTopColor="rgba(0,0,0,0)"
+	maxThumbColumns="7"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	imageVAlign="TOP"
+
+>
+  <image imageURL="images/_1.jpg"
+	thumbURL="thumbs/_1.jpg"
+	linkURL="images/_1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_2.jpg"
+	thumbURL="thumbs/_2.jpg"
+	linkURL="images/_2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\_2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.jpg"
+	thumbURL="thumbs/2.jpg"
+	linkURL="images/2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4782.jpg"
+	thumbURL="thumbs/IMG_4782.jpg"
+	linkURL="images/IMG_4782.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_4782.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4846.jpg"
+	thumbURL="thumbs/IMG_4846.jpg"
+	linkURL="images/IMG_4846.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_4846.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4847.jpg"
+	thumbURL="thumbs/IMG_4847.jpg"
+	linkURL="images/IMG_4847.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_4847.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5016.jpg"
+	thumbURL="thumbs/IMG_5016.jpg"
+	linkURL="images/IMG_5016.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_5016.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5064.jpg"
+	thumbURL="thumbs/IMG_5064.jpg"
+	linkURL="images/IMG_5064.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_5064.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5181.jpg"
+	thumbURL="thumbs/IMG_5181.jpg"
+	linkURL="images/IMG_5181.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_5181.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5182.jpg"
+	thumbURL="thumbs/IMG_5182.jpg"
+	linkURL="images/IMG_5182.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_5182.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5183.jpg"
+	thumbURL="thumbs/IMG_5183.jpg"
+	linkURL="images/IMG_5183.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_5183.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5184.jpg"
+	thumbURL="thumbs/IMG_5184.jpg"
+	linkURL="images/IMG_5184.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_5184.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5185.jpg"
+	thumbURL="thumbs/IMG_5185.jpg"
+	linkURL="images/IMG_5185.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_5185.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5186.jpg"
+	thumbURL="thumbs/IMG_5186.jpg"
+	linkURL="images/IMG_5186.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\doors\resources\images\large\IMG_5186.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

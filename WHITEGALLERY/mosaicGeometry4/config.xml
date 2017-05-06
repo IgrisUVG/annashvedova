@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	maxThumbColumns="5"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	imageVAlign="TOP"
+	captionBackColor="rgba(0,0,0,0)"
+	enableLooping="true"
+	showExpandButton="false"
+	showOpenButton="false"
+	backgroundColor="rgba(255,255,255,0)"
+	showThumbsButton="false"
+
+>
+  <image imageURL="images/8R0A4432.jpg"
+	thumbURL="thumbs/8R0A4432.jpg"
+	linkURL="images/8R0A4432.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4432.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4442.jpg"
+	thumbURL="thumbs/8R0A4442.jpg"
+	linkURL="images/8R0A4442.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4442.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4443.jpg"
+	thumbURL="thumbs/8R0A4443.jpg"
+	linkURL="images/8R0A4443.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4443.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4444.jpg"
+	thumbURL="thumbs/8R0A4444.jpg"
+	linkURL="images/8R0A4444.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4444.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4453.jpg"
+	thumbURL="thumbs/8R0A4453.jpg"
+	linkURL="images/8R0A4453.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4453.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4454.jpg"
+	thumbURL="thumbs/8R0A4454.jpg"
+	linkURL="images/8R0A4454.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4454.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4460.jpg"
+	thumbURL="thumbs/8R0A4460.jpg"
+	linkURL="images/8R0A4460.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4460.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4461.jpg"
+	thumbURL="thumbs/8R0A4461.jpg"
+	linkURL="images/8R0A4461.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4461.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4464.jpg"
+	thumbURL="thumbs/8R0A4464.jpg"
+	linkURL="images/8R0A4464.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4464.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4465.jpg"
+	thumbURL="thumbs/8R0A4465.jpg"
+	linkURL="images/8R0A4465.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4465.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4467.jpg"
+	thumbURL="thumbs/8R0A4467.jpg"
+	linkURL="images/8R0A4467.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4467.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4468.jpg"
+	thumbURL="thumbs/8R0A4468.jpg"
+	linkURL="images/8R0A4468.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4468.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4479.jpg"
+	thumbURL="thumbs/8R0A4479.jpg"
+	linkURL="images/8R0A4479.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4479.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8R0A4483.jpg"
+	thumbURL="thumbs/8R0A4483.jpg"
+	linkURL="images/8R0A4483.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry4\resources\images\large\8R0A4483.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

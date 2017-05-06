@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	captionBackColor="rgba(0,0,0,0)"
+	imageVAlign="TOP"
+	maxThumbColumns="4"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+
+>
+  <image imageURL="images/IMG_6027.jpg"
+	thumbURL="thumbs/IMG_6027.jpg"
+	linkURL="images/IMG_6027.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry1\resources\images\large\IMG_6027.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6029.jpg"
+	thumbURL="thumbs/IMG_6029.jpg"
+	linkURL="images/IMG_6029.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry1\resources\images\large\IMG_6029.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6030.jpg"
+	thumbURL="thumbs/IMG_6030.jpg"
+	linkURL="images/IMG_6030.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry1\resources\images\large\IMG_6030.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6031.jpg"
+	thumbURL="thumbs/IMG_6031.jpg"
+	linkURL="images/IMG_6031.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry1\resources\images\large\IMG_6031.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6032.jpg"
+	thumbURL="thumbs/IMG_6032.jpg"
+	linkURL="images/IMG_6032.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry1\resources\images\large\IMG_6032.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6033.jpg"
+	thumbURL="thumbs/IMG_6033.jpg"
+	linkURL="images/IMG_6033.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry1\resources\images\large\IMG_6033.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6034.jpg"
+	thumbURL="thumbs/IMG_6034.jpg"
+	linkURL="images/IMG_6034.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGeometry1\resources\images\large\IMG_6034.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

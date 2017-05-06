@@ -1,4 +1,4 @@
-<!--h1>404</h1-->
+<center>
 <p>
 <img src="/images/404.jpg">
 </p>

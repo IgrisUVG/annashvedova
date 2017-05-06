@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	thumbPadding="5"
+	thumbSelectedFrameWidth="5"
+	thumbCornerRadius="10"
+	imageVAlign="TOP"
+	captionBackColor="rgba(0,0,0,0)"
+	enableLooping="true"
+	backgroundColor="rgba(255,255,255,0)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+
+>
+  <image imageURL="images/IMG_4754.jpg"
+	thumbURL="thumbs/IMG_4754.jpg"
+	linkURL="images/IMG_4754.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGlass\resources\images\large\IMG_4754.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4839.jpg"
+	thumbURL="thumbs/IMG_4839.jpg"
+	linkURL="images/IMG_4839.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGlass\resources\images\large\IMG_4839.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4840.jpg"
+	thumbURL="thumbs/IMG_4840.jpg"
+	linkURL="images/IMG_4840.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGlass\resources\images\large\IMG_4840.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4841.jpg"
+	thumbURL="thumbs/IMG_4841.jpg"
+	linkURL="images/IMG_4841.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\mosaicGlass\resources\images\large\IMG_4841.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

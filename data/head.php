@@ -4,11 +4,13 @@
 <META NAME="KEYWORDS" CONTENT="Анна Шведова, художник, оформитель, дизайнер, картины, масло, графика, выставки, мозаика, оформление,
 дизайн, сумки, аксессуары, зарисовки.">
 <META NAME="DESCRIPTION" CONTENT="Творческая лаборатория Анны Шведовой. Картины, графика, и дизайн.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ТВОРЧЕСКАЯ ЛАБОРАТОРИЯ</title>
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/jquery.cookie.js"></script>
 <!--script type="text/javascript" src="js/menu.js"></script-->
 <script type="text/javascript" src="js/menuFull.js"></script>
+<script type="text/javascript" src="js/ajax.js"></script>
 <!--[if lte IE 8]>
 <script src="js/respond.min.js"></script>
 <![endif]-->

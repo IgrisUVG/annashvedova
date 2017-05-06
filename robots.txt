@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /application/bootstrap.php
+Disallow: /application/core/
+Disallow: /application/controllers/
+Sitemap: http://annashvedova.ru/sitemap.xml
+Host: annashvedova.ru

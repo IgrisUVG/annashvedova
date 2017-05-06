@@ -48,7 +48,7 @@ $(document).ready(function() {
 		$('.nav ul').each(function() {
 			cookieDel($('.nav ul').index($(this)));
 			$(this).removeClass('verbergend');
-            $(this).slideUp(200);
+      $(this).slideUp(200);
 		});
 		
 		$(this).addClass('verbergend');

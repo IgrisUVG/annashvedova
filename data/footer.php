@@ -12,6 +12,6 @@
 			</div>
 		</div>
 	</div>
-	<a class="inst" title="Анна Шведова в Instagram" href="http://www.instagram.com/swedensweden" target="_blank"></a>
-	<a class="face" title="Анна Шведова в Facebook" href="http://www.facebook.com/shvedova.anna" target="_blank"></a>
+	<a rel = "nofollow" class="inst" title="Анна Шведова в Instagram" href="http://www.instagram.com/swedensweden" target="_blank"></a>
+	<a rel = "nofollow" class="face" title="Анна Шведова в Facebook" href="http://www.facebook.com/shvedova.anna" target="_blank"></a>
 </div>

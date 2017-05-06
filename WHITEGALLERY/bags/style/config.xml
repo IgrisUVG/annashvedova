@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbCornerRadius="10"
+	thumbSelectedFrameWidth="5"
+	thumbPadding="5"
+	maxThumbColumns="6"
+	showImageNumber="false"
+	captionHAlign="CENTER"
+	captionBackTopColor="rgba(0,0,0,0.3)"
+	captionBackColor="rgba(0,0,0,0.5)"
+	backgroundColor="rgba(255,255,255,0)"
+	showExpandButton="false"
+	showOpenButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	imageVAlign="TOP"
+
+>
+  <image imageURL="images/_1.jpg"
+	thumbURL="thumbs/_1.jpg"
+	linkURL="images/_1.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\style\resources\images\large\_1.jpg">
+    <title><![CDATA[Бандана]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_2.jpg"
+	thumbURL="thumbs/_2.jpg"
+	linkURL="images/_2.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\style\resources\images\large\_2.jpg">
+    <title><![CDATA[Восток]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_3.jpg"
+	thumbURL="thumbs/_3.jpg"
+	linkURL="images/_3.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\style\resources\images\large\_3.jpg">
+    <title><![CDATA[Восток]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_4.jpg"
+	thumbURL="thumbs/_4.jpg"
+	linkURL="images/_4.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\style\resources\images\large\_4.jpg">
+    <title><![CDATA[Подмастерье]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_5.jpg"
+	thumbURL="thumbs/_5.jpg"
+	linkURL="images/_5.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\style\resources\images\large\_5.jpg">
+    <title><![CDATA[Серебро]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/_6.jpg"
+	thumbURL="thumbs/_6.jpg"
+	linkURL="images/_6.jpg"
+	linkTarget="_blank"
+	sourcePath="D:\Server\domains\annashvedova.loc\www\WHITEGALLERY\bags\style\resources\images\large\_6.jpg">
+    <title><![CDATA[Черный ворон]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
