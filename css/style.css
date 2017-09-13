@@ -96,7 +96,10 @@ body {
     margin: -110px auto 30px;
     width: 50.3%; /* 635px оптимальный минимум для флеша*/
 }
-
+.contents img {
+    margin-right: auto;
+    margin-left: auto;
+}
 .infotext p {
     font-family: Georgia, 'Times New Roman', 'MS SANS SERIF', TAHOMA, VERDANA, ARIAL, sans-serif;
     text-align: justify;

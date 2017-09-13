@@ -1,6 +1,6 @@
-<!--div class = "infotext">
+<!--div class = "infotext"-->
 		<!--a href="IMG_328711.jpg"-->
-	<center><img alt="" src="../images/IMG_328711.jpg" style="width: 630px;" /></center>
+	<img alt="" src="../images/IMG_328711.jpg" style="width: 630px;" />
 
 		<!--/a-->
 	<!--

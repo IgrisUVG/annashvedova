@@ -16,10 +16,10 @@
 <![endif]-->
 <link rel="icon" href="images/as32.png" type="image/png">
 <link href="css/style.css" rel="stylesheet" type="text/css">
-<link href="css/stylesmall.css" rel="stylesheet" media="(max-width:480px)">
+<!--link href="css/stylesmall.css" rel="stylesheet" media="(max-width:480px)"-->
 <link href="css/menu.css" rel="stylesheet" type="text/css">
-<link href="form.css" rel="stylesheet" type="text/css">
+<link href="css/form.css" rel="stylesheet" type="text/css">
 <link type='text/css' href='css/contact.css' rel='stylesheet' media='screen' />
 <!--?php
 	include_once("analyticstracking.php")
-?>
+?-->
